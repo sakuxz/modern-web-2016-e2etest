@@ -1,5 +1,7 @@
 # modern web 2016 e2e test
 
+> [slide](http://slides.com/alincode/deck-2/fullscreen#/)
+
 **checkout code**
 
 ```
